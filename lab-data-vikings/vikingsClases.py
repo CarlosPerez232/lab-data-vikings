@@ -8,7 +8,7 @@ class Soldier:
 # Viking
 
 
-class Viking:
+class Viking(4,5):
     pass
 
 # Saxon
